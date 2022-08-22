@@ -1,8 +1,10 @@
-# Template
+# Variables 2
 
-- Create a program called `.java`
-- Prompt the user for 
+- Create a program called `Variables2.java`
+- Create 3 integer variables
+- Calculate the sum and average of those variables
+- Output those values
 
-***Example Input:***\
-\
-***Example Output:***
+***Example Output:***\
+22\
+7.667
