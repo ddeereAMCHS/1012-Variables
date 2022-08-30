@@ -8,7 +8,7 @@
 - Create a variable that tells whether you have your driver's license or not
 - Create a variable that is your GPA (if you don't know, guess)
 - Create a variable that contains your favorite letter (if you don't have a favorite, just pick one)
-- Output those values
+- Output those values (except for the 3 integer variables you created)
 
 ***Example Output:***\
 22\
